@@ -1,0 +1,19 @@
+{
+  "name": "node-deep-dive",
+  "version": "1.0.0",
+  "description": "Deep dive into node topics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDeterminator/Node-Deep-Dive.git"
+  },
+  "author": "Alec Jordan <alec.jordan.cs@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheDeterminator/Node-Deep-Dive/issues"
+  },
+  "homepage": "https://github.com/TheDeterminator/Node-Deep-Dive#readme"
+}
